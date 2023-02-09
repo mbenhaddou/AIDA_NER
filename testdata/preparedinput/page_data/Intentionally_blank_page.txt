@@ -1,0 +1,58 @@
+Intentionally blank page
+An intentionally blank page or vacat page (from Latin: vacare for "being empty") is a page that is devoid of content, and may be unexpected. Such pages may serve purposes ranging from place-holding to space-filling and content separation. Sometimes, these pages carry a notice such as, "This page [is] intentionally left blank." Such notices typically appear in printed works, such as legal documents, manuals, and exam papers, in which the reader might otherwise suspect that the blank pages are due to a printing error and where missing pages might have serious consequences.
+
+
+== Uses for intentionally blank pages ==
+
+Intentionally blank pages are usually the result of printing conventions and techniques. Chapters conventionally start on an odd-numbered page (recto page); therefore, if the preceding chapter happens to have an odd number of pages, a blank page is inserted at the end. Book pages are often printed on large sheets because of technical and financial considerations. Thus, a group of 8, 16, or 32 consecutive pages will be printed on a single sheet in such a way that when the sheet is mechanically folded and cut, the pages will be in the correct order for binding. This is called an even working, and the group of pages is called a section or signature. Books printed in this manner will always have a number of pages which is a multiple of the number in such a signature, such as a multiple of 8, 16, or 32. As a result, these books will usually have pages left blank, unless by chance or editorial ingenuity the exact number of pages are printed.
+For example, if a book with 318 pages of content is printed using 32-page signatures, it will require 10 signatures, 320 pages in total. At the very end of the book — that is, at the end of the last signature — there will be 2 unused (blank) pages.
+If a printer's document processor has been designed to skip completely blank pages, notices may also be required on intentionally blank pages to prevent incorrect page numbering.
+Intentionally blank pages are ubiquitous in technical and instructional manuals, directories, and other large, mass-produced volumes of text. The contents of manuals produced by a given product's vendor are often compiled from generic instructions suitable for a variety of products, with additional instructions or chapters included for the specific product or model in question. This automation of manual-generation leads to intentionally blank pages to fit the requirements for mass printing.
+In digital documents, pages are intentionally left blank so that the document can be printed correctly in double-sided format, rather than have new chapters start on the backs of pages. Intentionally blank pages have also been used in documents distributed in ring binders. The intention is to leave room for expansion without breaking the document's page numbering. This allows updates to be made to a document while requiring minimal new pages, reducing printing costs. The only drawback is the increased time required by the reader to manually insert various newly updated pages into their correct locations in the document.
+
+
+=== Standardized tests ===
+
+Intentionally blank pages can be useful in standardized tests such as the GCSE, Higher School Certificate, SAT, CAT, ACT, MCAT, and GRE. In these exams, there are often individual, timed sections in which test-takers are prohibited from proceeding to the next section until that section's time interval has passed and the examiner allows them to continue. Because all of these separate sections are printed consecutively in the examination booklet, it may be possible for a test-taker who has finished the section early to see through the page and read the problems in the next section. By placing intentionally blank pages between these sections, the test-taker is prevented from cheating in this way. By printing a notice on the page, such as "this page has been intentionally left blank", test-takers will not be concerned that their test has been misprinted, especially as test instructions often instruct students to check for missing or blank pages and to report any defective test booklets to a proctor.
+
+
+=== Sheet music ===
+In books of sheet music, relatively short pieces of music that span two to four pages often need to be arranged so the number of page turns for the performer is minimized. For example, a three-page work (starting on the left hand sheet) followed immediately by a two-page work involves one page turn during each work. If a blank page immediately followed the three-page work (on the right hand sheet), the two-page work will span the left and right pages, alleviating the need for a page turn during the second work. Intentionally blank pages may also prevent a page turn during a difficult passage.
+
+
+=== Classified documents ===
+In the United States armed forces, classified documents require page checks whenever custody is transferred or an inventory is conducted. Blank pages are all marked "This page intentionally left blank" so page checks are unambiguous and every page of the document is accounted for.
+
+
+== Variations ==
+Intentionally blank pages placed at the end of books are often used to balance the folios which make up the book (see bookbinding). Often these pages are completely blank with no such statement, or are used as "Notes" pages, serving a practical purpose. In the case of telephone number directories, these pages are often used to list important numbers and addresses. In novels, pages may list other books available from the same publisher.
+Book publishers have also used stylized designs (dingbats) underneath the last paragraph of a chapter to indicate that no other content is to be expected until the next chapter, allowing for the possibility of blank pages without misunderstandings by the readers.
+
+
+== Examples ==
+Andy Griffiths' book Just Stupid! begins with a cartoon snail saying to the reader, "This page would be blank if I were not here telling you that this page would be blank if I were not here telling you that..." on an endless loop.
+Humorist Don Novello's 1977 book The Lazlo Letters ends with several otherwise-blank pages marked "FREE PAPER!".
+Comedian Demetri Martin's book This Is A Book contains an otherwise blank page which says, "This page unintentionally left blank."
+Iranian novelist Reza Amirkhani's book Man-e-oo (His Ego) has one whole chapter of blank pages.
+The phrase was a recurring joke in Infocom text adventure games. In their first title, Zork 1, inspecting an engraved wooden door resulted in the text: "The engravings translate to 'This space intentionally left blank'."
+Idries Shah's book The Book of the Book contains 10 pages describing why the following pages are important, and then a big amount of blank pages. Its main purpose is to demonstrate the theory that you shouldn't judge the content by its container.
+
+
+== See also ==
+Bookbinding
+Cancels
+Endpaper
+Leiden Conventions
+Octavo
+Publishing
+Self-reference
+
+
+== References ==
+
+
+== External links ==
+The This Page Intentionally Left Blank Project
+Everything2 discussion of the phrase
+"This page intentionally left blank" phrase translated into over 60 languages. (Via Internet Archive.)
+Guide to writing intentionally blank pages in XSL-FO

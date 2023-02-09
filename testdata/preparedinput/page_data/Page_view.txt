@@ -1,0 +1,50 @@
+Page view
+A page view (PV) or page impression is a request to load a single HTML file (web page) of an Internet site. On the World Wide Web, a page request would result from a web surfer clicking on a link on another "page" pointing to the page in question.
+A hit, which refers to a request for any file from a web server. There may, therefore, be many hits per page view since an HTML page can contain multiple files—images, CSS, etc. On balance, page views refer to a number of pages viewed or clicked on the site during the given time.
+Page views may be counted as part of web analytics. For the owner of the site, this information can be useful to see if any change in the "page" (such as the information or the way it is presented) results in more visits. If there are any advertisements on the page, the publishers would also be interested in the number of page views to determine their expected revenue from the ads. For this reason, it is a term that is used widely for Internet marketing and advertising.
+
+
+== Feature ==
+The page impression has long been a measure of user activity on a website. However, the activity is not necessarily associated with loading a complete HTML page. Modern programming techniques can serve pages by other means that don't show as HTTP requests.
+
+
+== Advertisement ==
+Since page views help estimate the popularity of sites, it helps determine their value for advertising revenue. The most common metric is CPM. It stands for 'Cost per thousand'(the M is the Roman numeral for 1,000) and it is commonly used metrics to measure page views divided by the thousands, that is, cost per 1000 views, used for the ad rates and thus, the less CPM is, the better deal it offers to advertisers. However, there has been a growing concern that CPM is not as trustworthy as it looks in the advertising market because, although, with CPM arrangement, everyone who visits a site makes publishers’ money, for an advertiser’s view, CPM is being challenged in comparison to CPC or CPA in terms of adverts’ efficiency because visiting does not mean clicking the ads.
+
+
+== Measurement ==
+The preferred way to count page views is using a website such as Google Analytics. They can measure the number of pages on any site and therefore, it helps people to receive a rough estimate of page views on web sites. There are also many other page view measurement tools available including open source ones as well as licensed products.
+
+
+== Criticism and concerns ==
+Despite a wide range of use of page view, it has come in for criticisms.
+
+
+=== Manipulation ===
+
+Page view can be manipulated or boosted for specific purposes. For example, a recent incident, called 'page view fraud', compromised the accuracy of measurement of page view by boosting the page view. Perpetrators used a tool called 'a bot' to buy fake page-views for attention, recognition, and feedback, increasing the site's value. As a result, some people already started building alternatives to measure audiences, such as "Ophan", saying that the page view is becoming passe.
+
+
+=== Humans vs. machines ===
+Fake page views can reflect bots instead of humans.
+
+
+== Wikipedia pageviews ==
+
+Wikipedia provides tools that allow one to see how many people have visited a Wikipedia article during a given time period. Such have been used for tools that for instance display the most popular articles of the day. Wikipedia pageviews have been used for stock market moves, prediction of movie box office success, spread of disease among other applications of datamining. Since search engines directly influence what is popular on Wikipedia such statistics may provide a more unfiltered and real–time view into what people are searching for on the Web and societal interests. For instance they can be used to gain insights into public anxiety and information seeking after or during events or for the identification of concepts with significant increase of interest from the public. A 2015 study examines the influence of reddit posts on Wikipedia pageviews.
+
+
+== See also ==
+Unique user
+Web traffic
+Website monitoring
+Google Trends
+Internet manipulation
+Click bot
+
+
+== References ==
+
+
+== Further reading ==
+Greenberg, Julia (31 Dec 2015). "Page Views Don't Matter Anymore—But They Just Won't Die". Wired. Retrieved 2 Jan 2016.

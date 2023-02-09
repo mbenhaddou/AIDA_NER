@@ -1,0 +1,16 @@
+Page Up and Page Down keys
+The Page Up and Page Down keys (sometimes abbreviated as PgUp and PgDn) are two keys commonly found on computer keyboards.
+The two keys are primarily used to scroll up or down in documents, but the scrolling distance varies between different applications. In word processors, for instance, they may jump by an emulated physical page or by a screen view that may show only part of one page or many pages at once depending on zoom factor. In cases when the document is shorter than one screenful, Page Up and Page Down often have no visible effect at all.
+Operating systems differ as to whether the keys (pressed without modifier) just move the view – e.g. in Mac OS X – or also the input caret – e.g. in Microsoft Windows. In right-to-left settings, PgUp will move either upwards or rightwards (instead of left) and PgDn will move down or leftwards (instead of right). The keys have been dubbed previous page and next page, accordingly.
+The arrow keys and the scroll wheel can also be used to scroll a document, although usually by smaller incremental distances. Used together with a modifier key, such as Alt, ⌥ Opt, ^Ctrl or a combination thereof, they may act the same as the Page keys.
+In most operating systems, if the Page Up or Page Down key is pressed along with the ⇧ Shift key in editable text, all the text scrolled over will be highlighted.
+In some applications, the Page Up and Page Down keys behave differently in caret navigation (toggled with the F7 function key in Windows). For a claimed 30% of people, the paging keys move the text in the opposite direction to what they find natural, and software may contain settings to reverse the operation of these keys to accommodate that.
+In August 2008, Microsoft received the patent #7,415,666 for the functions of the two keys – Page Up & Page Down.
+
+
+== See also ==
+Arrow keys
+Scroll wheel
+
+
+== References ==

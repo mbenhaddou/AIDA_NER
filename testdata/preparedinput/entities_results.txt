@@ -1,0 +1,65 @@
+UNITED NATIONS[UNITED NATIONS], From:0/0, To:0/0, Offset: 0, Length: 14
+Rex Tillerson[Rex Tillerson], From:0/0, To:0/0, Offset: 36, Length: 13
+North Korea[North Korea], From:0/0, To:0/0, Offset: 94, Length: 11
+Trump[Trump], From:0/0, To:0/0, Offset: 176, Length: 5
+Tillerson[Tillerson], From:0/0, To:0/0, Offset: 368, Length: 9
+U.N. Security Council[U.N. Security Council], From:0/0, To:0/0, Offset: 427, Length: 21
+Trump[Trump], From:0/0, To:0/0, Offset: 475, Length: 5
+Tillerson[Tillerson], From:0/0, To:0/0, Offset: 607, Length: 9
+Security[Security], From:0/0, To:0/0, Offset: 652, Length: 8
+Trump[Trump], From:0/0, To:0/0, Offset: 681, Length: 5
+North Korea[North Korea], From:0/0, To:0/0, Offset: 746, Length: 11
+United Nations[United Nations], From:0/0, To:0/0, Offset: 905, Length: 14
+Trump[Trump], From:0/0, To:0/0, Offset: 931, Length: 5
+North Korea[North Korea], From:0/0, To:0/0, Offset: 1047, Length: 11
+Trump[Trump], From:0/0, To:0/0, Offset: 1073, Length: 5
+Reuters[Reuters], From:0/0, To:0/0, Offset: 1084, Length: 7
+U.N.[U.N.], From:0/0, To:0/0, Offset: 1205, Length: 4
+North Korea[North Korea], From:0/0, To:0/0, Offset: 1219, Length: 11
+Saturday[Saturday], From:0/0, To:0/0, Offset: 1259, Length: 8
+American[American], From:0/0, To:0/0, Offset: 1330, Length: 8
+South Korean[South Korean], From:0/0, To:0/0, Offset: 1343, Length: 12
+North Korean[North Korean], From:0/0, To:0/0, Offset: 1407, Length: 12
+U.S. Pacific Command[U.S. Pacific Command], From:0/0, To:0/0, Offset: 1432, Length: 20
+Dave Benham[Dave Benham], From:0/0, To:0/0, Offset: 1469, Length: 11
+North Korea[North Korea], From:0/0, To:0/0, Offset: 1525, Length: 11
+Trump[Trump], From:0/0, To:0/0, Offset: 1602, Length: 5
+North Korea[North Korea], From:0/0, To:0/0, Offset: 1635, Length: 11
+Trump[Trump], From:0/0, To:0/0, Offset: 1667, Length: 5
+April 28[April 28], From:0/0, To:0/0, Offset: 1678, Length: 8
+North Korea[North Korea], From:0/0, To:0/0, Offset: 1753, Length: 11
+Reuters[Reuters], From:0/0, To:0/0, Offset: 1841, Length: 7
+Trump[Trump], From:0/0, To:0/0, Offset: 1850, Length: 5
+Twitter[Twitter], From:0/0, To:0/0, Offset: 1864, Length: 7
+Chinese[Chinese], From:0/0, To:0/0, Offset: 1906, Length: 7
+Xi Jinping[Xi Jinping], From:0/0, To:0/0, Offset: 1924, Length: 10
+North Korea[North Korea], From:0/0, To:0/0, Offset: 1965, Length: 11
+North Korea[North Korea], From:0/0, To:0/0, Offset: 2008, Length: 11
+China[China], From:0/0, To:0/0, Offset: 2047, Length: 5
+Trump[Trump], From:0/0, To:0/0, Offset: 2150, Length: 5
+Trump[Trump], From:0/0, To:0/0, Offset: 2214, Length: 5
+North Korea[North Korea], From:0/0, To:0/0, Offset: 2270, Length: 11
+Tillerson[Tillerson], From:0/0, To:0/0, Offset: 2283, Length: 9
+Security Council[Security Council], From:0/0, To:0/0, Offset: 2302, Length: 16
+Friday[Friday], From:0/0, To:0/0, Offset: 2322, Length: 6
+U.S.[U.S.], From:0/0, To:0/0, Offset: 2334, Length: 4
+South Korea[South Korea], From:0/0, To:0/0, Offset: 2397, Length: 11
+Japan[Japan], From:0/0, To:0/0, Offset: 2413, Length: 5
+North Korea[North Korea], From:0/0, To:0/0, Offset: 2450, Length: 11
+United States[United States], From:0/0, To:0/0, Offset: 2494, Length: 13
+North Korean[North Korean], From:0/0, To:0/0, Offset: 2676, Length: 12
+Tillerson[Tillerson], From:0/0, To:0/0, Offset: 2736, Length: 9
+North Korean[North Korean], From:0/0, To:0/0, Offset: 2887, Length: 12
+Trump[Trump], From:0/0, To:0/0, Offset: 2933, Length: 5
+Tillerson[Tillerson], From:0/0, To:0/0, Offset: 2945, Length: 9
+North Korea[North Korea], From:0/0, To:0/0, Offset: 3011, Length: 11
+United States[United States], From:0/0, To:0/0, Offset: 3064, Length: 13
+United Nations[United Nations], From:0/0, To:0/0, Offset: 3116, Length: 14
+North Korea[North Korea], From:0/0, To:0/0, Offset: 3244, Length: 11
+United States[United States], From:0/0, To:0/0, Offset: 3422, Length: 13
+North Korea[North Korea], From:0/0, To:0/0, Offset: 3452, Length: 11
+North Korea[North Korea], From:0/0, To:0/0, Offset: 3572, Length: 11
+U.S.[U.S.], From:0/0, To:0/0, Offset: 3628, Length: 4
+South Korea[South Korea], From:0/0, To:0/0, Offset: 3640, Length: 11
+Japan[Japan], From:0/0, To:0/0, Offset: 3656, Length: 5
+Asian[Asian], From:0/0, To:0/0, Offset: 3680, Length: 5

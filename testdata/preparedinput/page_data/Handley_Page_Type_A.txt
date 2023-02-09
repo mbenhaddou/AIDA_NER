@@ -1,0 +1,37 @@
+Handley Page Type A
+The Handley Page Type A, sometimes called "Bluebird" and later designated HP.1, was the first powered aircraft designed and built by Frederick Handley Page.
+
+
+== Development ==
+Following success in 1909 with an experimental glider Handley Page designed and built a single-seat monoplane. It was of wood construction with a tailskid landing gear, powered by a 20 hp (15 kW) Advance V-4 air-cooled engine . It used a wing with a shape patented by José Weiss which was claimed to provide automatic lateral stability, so there were no ailerons or wing warping mechanisms. Weiss was also responsible for the design of its tractor propeller. The wings, fuselage and tail surfaces were covered with a blue-grey rubberised fabric, hence the nickname Bluebird. After the aircraft had been displayed at the second Olympia Aero Exhibition, Handley Page successfully made a few straight hops in the Bluebird on 26 May 1910, but crashed at the first attempt to make a turn. Handley Page improved the design to include lateral control via wing warping and fitted a 25 hp (18.6 kW) Alvaston water-cooled flat-twin engine. The rebuilt aircraft was designated Handley Page Type C but it refused to fly. Although work was completed on modifying the aircraft to take a 50 hp (37 kW) Isaacson radial engine it was abandoned in late 1910. It ended its life as an instructional airframe at the Northampton Polytechnic Institute in Clerkenwell, where Handley Page was a lecturer.
+In 1924 the company retrospectively applied model numbers, the Type A became the HP.1 and the Type C the HP.3.
+
+
+== Variants ==
+Type A (HP.1)
+Experimental monoplane powered by an Advance 4-cylinder engine, one built.
+Type C (HP.3)
+Type A improved and fitted with an Alvaston flat-twin engine.
+
+
+== Specifications ==
+Data from Handley Page Aircraft since 1907 
+General characteristics
+Crew: one
+Length: 20 ft 6 in (6.25 m)
+Wingspan: 32 ft 6 in (9.91 m)
+Wing area: 150 ft2 (13.9 m2)
+Empty weight: 300 lb (136 kg)
+Gross weight: 450 lb (205 kg)
+Powerplant: 1 × Advance air-cooled V4 engine, 20 hp (15 kW)
+Performance
+Maximum speed: 35 mph (56 km/h)
+
+
+== References ==
+
+
+=== Notes ===
+
+
+=== Bibliography ===

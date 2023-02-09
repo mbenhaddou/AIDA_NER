@@ -1,0 +1,164 @@
+Handley Page Type O
+The Handley Page Type O was an early biplane bomber used by Britain during the First World War. The Type O was the largest aircraft that had been built in the UK and one of the largest in the world. Most were built in two versions, the Handley Page O/100 (H.P.11) and Handley Page O/400 (H.P.12).
+The bombers were used in France for tactical night attacks on targets in German-occupied France and Belgium and for strategic bombing of industrial and transport targets in the Rhineland. Some aircraft were temporarily diverted to anti-submarine reconnaissance and bombing in the Tees estuary in 1917 and two aircraft operated in the eastern Mediterranean. The impression made by the Type O was such that for many years after the war, any large aircraft came to be called a "Handley Page" in Britain and entered the dictionary as such.
+
+
+== Design ==
+The design of the series of aircraft began shortly after the outbreak of the First World War after meetings between the Royal Navy Director of the Air Department, Captain Murray Sueter and Frederick Handley Page. Sueter requested "a bloody paralyser of an aircraft" for long-range bombing. The phrase had originated from Commander Charles Rumney Samson who had returned from the front. Coastal patrol adaptations of the abortive Handley Page L/200, M/200 and MS/200 designs were initially discussed but Sueter's technical advisor, Harris Booth, favoured a large seaplane for coastal patrol and dockyard defence, that would also be capable of bombing the German High Seas Fleet at its base in Kiel. A prototype (AD Seaplane Type 1000) had already been commissioned from J Samuel White & Co. of Cowes.
+Handley Page suggested building a land-based aircraft of similar size, and a specification was drawn up around his suggestions and formally issued on 28 December 1914 for four prototypes. It called for a large biplane to be powered by two 150 hp (110 kW) Sunbeam engines, which was required to fit in a 75 ft × 75 ft (23 m × 23 m) shed and would therefore have folding wings. It was to carry six 100 lb (45 kg) bombs and have armour plating to protect crew and engines from rifle-fire from the ground. The crew of two were to be enclosed in a glazed cockpit and the only defensive armament planned was a rifle to be fired by the observer/engineer. The name O/100 came from the proposed wingspan of the aircraft prefixed by an 'O', since Handley Page gave their types alphabetical type letters. The outline design was approved on 4 February 1915, with 250 hp (190 kW) Rolls-Royce Eagle engines and on 9 February the contract was amended to include a further eight aircraft.
+The O/100 was an unequal-span three-bay biplane, with the overhanging part of the upper wing braced by kingposts, a rectangular section fuselage and a biplane tail with twin balanced rudders, between the horizontal surfaces. Balanced ailerons were fitted to the upper wing only and extended beyond the wing trailing edge. The engines drove four-bladed propellers, rotating in opposite directions to cancel the torque and were enclosed in armoured nacelles, mounted between the wings on tubular steel struts. The nacelles had a long tapered fairing to reduce drag; to clear the wing rigging wires when the wings were folded, the rear portions of the fairings were hinged to fold inward. Construction of the fuselage and flying surfaces was primarily of spruce, with much reduction in weight by extensive use of hollow section members.
+
+
+== Development ==
+The four prototypes and first production batch of six aircraft were built at Cricklewood, with the first aircraft delivered by road to Hendon on 9 December 1915. The first flight of the prototype, serial number 1455, was made at Hendon on 17 December, when a short straight flight was made, the aircraft taking off without trouble at 50 mph (80 km/h). A second flight was made the following day, when it was found that the aircraft would not fly faster than about 55 mph (89 km/h). This was blamed on the drag caused by large honeycomb radiators, which were changed to tube radiators mounted on either side of the engine nacelles. A third flight on 31 December revealed a number of control problems, the ailerons and elevators were effective but heavy, partly due to excessive friction in the control circuit and the rudders were seriously overbalanced. After minor modifications, the aircraft was flown to RNAS Eastchurch, where full-speed trials were made. On reaching 70 mph (110 km/h), the tail unit began to vibrate and twist violently; the pilot immediately landed and an inspection showed severe damage to the rear fuselage structure. Reinforcement failed to cure the problem, the enclosed cockpit and most of the armour plating were also removed. The second prototype, 1456, was completed in April 1916 and had an open cockpit in a longer nose with room for a gunner's position. To save weight, most of the armour plating was deleted and was the arrangement for later production of the machine.
+After a series of proving flights at Hendon, 1456 was accepted by the RNAS and was flown to Manston for further trials. These revealed that despite a reduced balance area on the elevators, there was still a tail oscillation problem. A lack of directional stability caused by the increased forward side area was partly cured by adding a fixed fin but to find the cause of the tail oscillation, the Admiralty called in Frederick Lanchester from the National Physics Laboratory. Lanchester agreed that simple structural weakness was not the root of the problem and that resonance of the fuselage was the probable cause. Static tests on the third prototype, 1457, which had a redesigned, stiffer, fuselage structure showed nothing. This aircraft had an amidships crew position and on 26 June, Lanchester was flown as an observer. The tail oscillations started at 80 mph (130 km/h); Lanchester observed that the tail was twisting by 15° to either side and deduced that the cause was asymmetric movement of the right and left halves of the elevators, which were not rigidly linked but connected by long control cables. He recommended that the halves of the elevators be connected, the elevator balances removed and further bracing added between the lower longerons and the lower tailplane spar, measures which were wholly successful.
+The fourth prototype, 1458, was completed with the same fuselage structure as 1456 and provision for armament, with a Scarff ring mounting in the nose, a pair of post mountings in the mid position and a gun mounting in the rear fuselage. This was also the first O/100 to be fitted with 320 hp (240 kW) Eagle engines. After completing acceptance trials, 1456 and 1457 were retained at Manston to form a Handley Page training flight. The first prototype was rebuilt to production standard and 1458 was used to test a new nacelle design, which was un-armoured, had an enlarged fuel tank and a shorter fairing obviating the need for the tip to fold. The new nacelle design was used on all aircraft built after the initial batch of twelve. From 1461, an additional 130 imp gal (590 L) fuel tank was fitted in the fuselage above the bomb floor. A total of 46 O/100s were built before being superseded by the Type O/400.
+The most significant difference between the two types was the use of 360 horsepower (270 kW) Eagle VIII engines (£1,622/10/- [£1,622.50] each). Unlike the earlier version, this engine was not built in right-handed and left-handed versions, because production of engines of both types for engine type approval had been difficult; wind tunnel tests at the NPL established that the counter-rotating propellers were a cause of the directional instability of the O/100. It was realised that only one version was necessary, simplifying production and maintenance; the torque effect was overcome by offsetting the fin slightly. The O/400 had a strengthened fuselage, an increased bomb load, the nacelle tanks were removed and the fuel was carried in two 130 imp gal (590 L) fuselage tanks, supplying a pair of 15 imp gal (68 L) gravity tanks. The new nacelles were smaller and had simplified supporting struts; the reduction of drag producing an improvement in maximum speed and altitude. The revised nacelle was tested in 3188, which in 1917 was flown at Martlesham Heath with a variety of engine installations. An initial order for 100 of the revised design, with Sunbeam Maori or Eagle engines, was placed on 14 August but cancelled shortly afterwards. Twelve sets of Cricklewood-built components were transferred to the Royal Aircraft Factory, where they were assembled into the first production O/400s. More than 400 were supplied before the Armistice at a price of £6,000 each. Another 107 were licence-built in the USA by the Standard Aircraft Corporation (out of 1,500 ordered by the air corps). Forty-six out of an order for fifty were built by Clayton & Shuttleworth in Lincoln.
+
+
+== Operational history ==
+
+
+=== Flanders ===
+
+The first twenty O/100s deployed to France were received by 7 Squadron and 7A Squadron of the 5th Wing RNAS at Dunkirk in late 1916. At first the O/100s were used for daylight attacks over the North Sea, damaging a German destroyer on 23 April 1917 but the loss of an aircraft to fighter attack two days later, resulted in a switch to night operations, usually by single aircraft against German-occupied Belgian ports, railway targets and airfields. On the night of 16/17 August 14 O/100s attacked Thourout railway station and dropped 9 long tons (9.1 t) of bombs. O/100s from Coudekerque were diverted to anti-U boat patrols off the mouth of the River Tees in September 1917. The Handley Page crews sighted eleven U-boats, attacked seven with bombs and sank none but the deterrent effect drastically reduced u-boat operations in the area.
+
+
+=== Independent Force ===
+
+On the night of 16/17 March 1917, a Handley Page of the Luxeuil Wing was sent to bomb a railway junction at Moulins-lès-Metz and in April, single aircraft were sent to bomb, except for raids on a railway junction at Armaville on 5/6 April and a steelworks at Hagendingen and the Chambley airfield on 14/15 April. The Luxeuil Wing was disbanded in May to equip 10 Squadron RNAS, for operations on the Western Front during the German Spring Offensive. In September 1918, the 41st Wing was formed with the Handley Pages of A Squadron RNAS (Squadron Commander K. S. Savory), formed at Manston for night bombing and flown to Ochey in October. (A Squadron was later called 16 Squadron RNAS, then from 1 April 1918, 216 Squadron RAF.) On 9 August, 97 Squadron arrived in France and ten days later, 215 Squadron was transferred, then on 31 August, 115 Squadron arrived and 100 Squadron was re-equipped with Handley Pages by September. Operations began with 97 Squadron on 19 August and 215 Squadron three nights later. Cologne railway station was bombed by two 216 Squadron aircraft on 21/22 August and six attacks were made on the German chemical industry, the raid on 25 August by two 215 Squadron aircraft on the works at Mannheim being particularly accurate. Five aircraft of 216 Squadron attacked on 2/3 September, one bomb causing M400,000 worth of damage and the first attack by 115 Squadron was made on 16/17 September, when seven Handley Pages were lost to engine-trouble or anti-aircraft fire.
+The improved O/400 had started to enter service in April 1918, gradually allowing the re-equipment of more squadrons. The O/400s could carry new 1,650-pound (750 kg) bombs, which were aimed with the Drift Sight Mk 1A bombsight; each raid was conducted by up to forty O/400s. On the night of 21/22 October, four Handley Pages attacked Kaiserslautern with heavy bombs and four dropped incendiaries; three heavy bombers and two incendiary bombers caused M500,000 of damage and Kaiserslautern was bombed again on 23/24 October, along with Coblenz, Mannheim and Wiesbaden. The bombers again were diverted to army support during the month and on the night of 9/10 October, 97, 215 and 216 Squadrons bombed Metz, one bomb hitting a powder store and rocked the town, the damage being estimated by the Germans to have been worth M1,000,000. Bombing was curtailed during the last days of the war by bad weather but several aerodromes were attacked, particularly that at Morhange.
+
+
+=== Dardanelles ===
+As part of the Dardanelles campaign, O/100 3124 was flown 2,000 mi (3,200 km) from England to Mudros on the Greek island of Lemnos in the eastern Mediterranean. Flown by Lieutenant Ross Smith, it was used for night attacks against the Ottomans and supplying the small number of aircraft flying in support of Lawrence of Arabia. On the night of 3/4 July 1917, the Handley Page, flown by Squadron Commander Kenneth Savory and four other crew, tried to attack Galata air base but a hot southerly wind caused the engines to overheat; some of the bombs were jettisoned and the crew turned back, dropping the rest of the bombs on an army camp near Bulair. On 8/9 July 1917, Savory tried to fly to Constantinople but a headwind slowed the aircraft and after  3 1⁄2 hours the attempt was abandoned and targets of opportunity were bombed on the way back. Next night, Savory reached Constantinople before midnight and from 800 ft (240 m) attacked the battlecruiser SMS Goeben at anchor in Constantinople, with eight 112 lb (51 kg) and hit a destroyer. The crew flew on, bombed s.s. General, thought to be the German HQ and dropped two bombs on the Ottoman War Office building, returning to Mudros at 3:40 a.m.
+On 6 August the aircraft was used to bomb warehouses and ships in the harbour of Pandera on the south shore of the Marmara and was then used on anti-submarine patrols until 2 September, when it was sent to bomb Adrianopolis. En route the crew dropped two bombs on a submarine as it dived, before dropping two more on Kuleli Burgas and then the rest the Adrianopolis railway station and buildings. On 30 September, (flown by John Alcock), the bomber was used to raid railway stations near Constantinople and Haidar Pasha but it was forced to ditch in the Gulf of Xeros, after one engine went unserviceable. The crew floated with the aircraft for two hours and fired Very lights but were not seen by British destroyers. The crew had to swim for an hour to land on the Gallipoli peninsula, where they were taken prisoner. Another Handley Page was flown from England to reinforce the Palestine Brigade and served with 1 Squadron, Australian Flying Corps. In September 1918, the bomber was used to supply Colonel T. E. Lawrence and the Arabs.
+
+
+== Post-1918 ==
+After the war, O/400s remained in squadron service until replaced by the Vickers Vimy toward the end of 1919. War-surplus aircraft were converted for civilian use in the UK and nine were used by Handley Page Transport. Eight O/400s were fitted with passenger accommodation and operated by the 86 (Communication) Wing, formed at Hendon to provide quick transport between London and Paris for officials engaged in the negotiation of the Treaty of Versailles. Two were finished in silver dope, named Great Britain and Silver Star and fitted as VIP transports, while the others, seating eight, retained their dark green finish.
+Six aircraft were assembled for sale to the Republic of China as O/7s, principally for use as transports. The O/7s were delivered to China and re-assembled at Nanyuan near Beijing. The aircraft flew their first service, carrying airmail and passengers, between Beijing and Tientsin on 7 May 1920. These services were disrupted by the outbreak of civil war, with the aircraft being taken over by various warlords.
+
+
+== Accidents and incidents ==
+On 19 August 1918, RAF Type O/400 D4593 crashed at Maxstoke during a test flight from Castle Bromwich Aerodrome, killing all seven on board. Fabric from a wing tore off, causing a loss of control.
+On 17 May 1919, a Type O carrying Lawrence of Arabia on a flight to Egypt crashed at the airport of Roma-Centocelle. The pilot and co-pilot were both killed, although Lawrence survived with a broken shoulder blade and two broken ribs.
+On 14 December 1920, a Handley Page Transport O/400 (G-EAMA), operating a service from the company airfield at Cricklewood, crashed on take-off when it hit a tree at Golders Green, killing the two crew and two of the six passengers.
+
+
+== Variants ==
+Before 1924, Handley Page used an alphabetical system for aircraft designations and the Type O followed the Type M and Type N. Type Os are frequently misnamed with the numeral "0" instead of the letter "O". The company designations "H.P.11" and "H.P.12" were applied retrospectively after the change to the use of type numbers in 1924.
+O/100
+Original bomber version for RNAS - Two 260 hp (190 kW) Rolls-Royce Eagle II engines. Four prototypes and 42 production aircraft built.
+O/400
+Improved bomber for RNAS/RAF - Two 360 hp (270 kW) Rolls-Royce Eagle VIII engines. 554 built.
+O/7
+Export transport version for China to carry 14 passengers. Lengthened engine nacelles for fuel tanks moved from fuselage; 12 conversions.
+O/10
+Transport variant to carry 12 passengers; ten conversions.
+O/11
+Variant of the O/7 for mixed passenger/cargo use, two passengers up front and three in the very rear, with freight in between; three conversions.
+
+
+== Operators ==
+
+
+=== Civil ===
+ China
+The Government of China
+ India
+Indo Burmese Transport
+ Poland
+The Polish Government bought one aircraft in 1920.
+ United Kingdom
+Handley Page Transport
+
+
+=== Military ===
+ Australia
+Australian Flying Corps
+No. 1 Squadron AFC in Palestine.
+
+ China  United Kingdom
+Royal Air Force
+No. 58 Squadron RAF (O/400)
+No. 70 Squadron RAF (O/400)
+No. 97 Squadron RAF (O/400)
+No. 100 Squadron RAF (O/400)
+No. 115 Squadron RAF (O/400)
+No. 116 Squadron RAF (O/400)
+No. 207 Squadron RAF (O/400)
+No. 214 Squadron RAF (O/400)
+No. 215 Squadron RAF (O/100 and O/400)
+No. 216 Squadron RAF (O/400)
+
+Royal Naval Air Service
+No. 7 Squadron RNAS (O/100)
+No. 7A Squadron RNAS (O/100)
+No. 14 Squadron RNAS (O/100)
+No. 15 Squadron RNAS (O/100)
+No. 16 Squadron RNAS (O/100 and O/400)
+
+ United States
+Handley Page Squadron (O/100 and O/400)
+
+
+=== Captured aircraft ===
+One of the early O/100s, 1463, left from Manston Airfield and landed behind German lines on 1 January 1917. The five crew, including Flight-Lieutenant Henry Connell Vereker, became prisoners of war and the aircraft was painted and flown in German markings until it later crashed.
+
+
+== Specifications (O/400) ==
+Data from The British Bomber since 1914 and The War in the Air Appendices 
+General characteristics
+Crew: four or five
+Length: 62 ft 10¼ in (19.16 m)
+Wingspan: 100 ft (30.48 m)
+Height: 22 ft (6.71 m)
+Wing area: 1,648 ft² (153.1 m²)
+Empty weight: 8,502 lb (3,856 kg)
+Loaded weight: 14,022 ()
+Max. takeoff weight: 13,360 lb (6,060 kg)
+Powerplant: 2 × Rolls-Royce Eagle VIII inline piston, 360 hp (268 kW) each
+Performance
+Maximum speed: 97.5 mph (84.7 kn, 157 km/h)
+Range: 608 nmi (700 mi, 1,120 km)
+Service ceiling: 8,500 ft (2,600 m)
+Rate of climb: 120 ft/min (37 m/min)
+Rate of climb: 23 min to 5,000 ft
+Endurance: 8 hours
+Armament
+Guns: 5 × 0.303 in (7.7 mm) Lewis Guns (2 on nose Scarff ring, 2 on dorsal position and 1 at ventral hatch)
+Bombs: Up to 2,000 lb (907 kg) of bombs
+
+
+== See also ==
+Related development
+Handley Page W.8
+Handley Page V/1500
+Aircraft of comparable role, configuration and era
+Vickers Vimy
+Gotha G.IV
+Sikorsky Ilya Muromets
+Caproni Ca.32
+Related lists
+List of aircraft of the Fleet Air Arm
+List of bomber aircraft
+List of aircraft of the Royal Air Force
+
+
+== References ==
+
+
+=== Notes ===
+
+
+=== Bibliography ===
+
+
+== Further reading ==
+Kent, W. D. (1999). Biplanes and Bombsights: British Bombing in World War I (Report). Maxwell Air Force Base, AL: Air University. OCLC 831693694. ADA366808. Retrieved 6 April 2017. 
+
+
+== External links ==
+"Handley Page O/100 and O/400" a 1953 Flight article by J. M. Bruce
+RAF Historical Society Journal 45 Dye, P.: RFC Bombs and Bombing 1912–1918
